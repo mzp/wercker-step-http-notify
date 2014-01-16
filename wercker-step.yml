@@ -1,5 +1,5 @@
 name: http-notify
-version: 0.1.0
+version: 0.1.1
 description: send http request to specified url(a.k.a. webhook)
 keywords:
   - web hook
