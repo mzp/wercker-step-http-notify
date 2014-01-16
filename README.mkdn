@@ -1,6 +1,6 @@
 # http-notify
 
-Send http requset to specified url(a.k.a. webhook)
+Send http request to specified url(a.k.a. webhook)
 
 ## Options
 ### required
